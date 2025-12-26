@@ -23,11 +23,11 @@
 
 ### 🔬 Research & Engineering Focus
 
-I focus on **reducing computational overhead** while maintaining SOTA performance in Generative AI systems. My work spans from low-level attention mechanisms to high-level agentic orchestration.
+I focus on **reducing computational overhead** and **automating complex reasoning** in Generative AI systems. My work spans from architectural optimization to high-level agentic orchestration.
 
 * **Deep Learning & Systems:** Designing scalable architectures for **DeepSeek Sparse Attention**, RAG pipelines, and custom execution environments for agentic workflows.
-* **Bayesian Optimization:** Automating prompt engineering and multi-agent team composition (MALBO, BOInG).
-* **Efficient NLP:** Context Compression ($84\%$ token reduction) and kernel-level optimizations for consumer hardware.
+* **Bayesian Optimization:** Automating prompt engineering and multi-agent team composition (MALBO, BOInG) using Multi-Objective strategies.
+* **Efficient NLP:** Exploring **Context Compression** frameworks ($84\%$ token reduction) and fine-tuning strategies to optimize inference costs on constrained budgets.
 
 ---
 
@@ -101,10 +101,3 @@ I focus on **reducing computational overhead** while maintaining SOTA performanc
   Advanced combinatorial optimization using multi-source information fusion.
   <br>
   [![Citations](https://img.shields.io/badge/Citations-8-green?style=flat-square)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2OhpFQsAAAAJ&citation_for_view=2OhpFQsAAAAJ:9ZlFYXVOiuMC)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioSabbatellaUni&show_icons=true&theme=minimal" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSabbatellaUni&layout=compact&theme=minimal" alt="Top Languages" />
-</div>
