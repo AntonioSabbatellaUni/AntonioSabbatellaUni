@@ -56,7 +56,7 @@ I focus on **reducing computational overhead** while maintaining SOTA performanc
 | Project | Domain | Impact |
 | :--- | :--- | :--- |
 | **[LUDUS](https://github.com/AntonioSabbatellaUni/LUDUS)** | **Deep Learning / Kernels** | Implementation of **DeepSeek Sparse Attention** for Qwen models. Reduces complexity to $O(N \cdot K)$. Optimized for consumer hardware (T4). |
-| **[MALBO](https://github.com/AntonioSabbatellaUni/LLM-Multi-Agent-Optimization-Framework)** | **Multi-Agent / Bayesian Opt** | **Multi-Agent LLM Bayesian Optimization**. Automates agent team composition. Features a **custom fork of `smolagents`** engineered to enable heterogeneous LLM swapping per agent role. |
+| **[MALBO](https://github.com/AntonioSabbatellaUni/LLM-Multi-Agent-Optimization-Framework)** | **Multi-Agent / Bayesian Opt** | **Pareto-Efficient Multi-Agent Optimization.** Finds optimal trade-offs between Cost and Performance for agent teams using Multi-Objective Bayesian Optimization. Features a **custom fork of `smolagents`** for heterogeneous LLM swapping. |
 | **[StudyWithWisp](https://www.studywithwisp.me)** | **Full Stack AI / SaaS** | AI Platform for student prep (Flashcards/Simulations). Built with **Next.js & Python on GCP**. Scalable RAG pipeline with Prisma. (Private Repo) |
 | **[UiNav](https://github.com/AntonioSabbatellaUni/uinav)** | **Computer Vision / Agents** | Autonomous UI interaction system combining **YOLO (finetuned)** with LLMs for natural language-driven browser automation. |
 
@@ -84,15 +84,6 @@ I focus on **reducing computational overhead** while maintaining SOTA performanc
   [![arXiv](https://img.shields.io/badge/arXiv-2511.11788-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2511.11788)
   [![Code](https://img.shields.io/badge/Code-MALBO-black?logo=github&style=flat-square)](https://github.com/AntonioSabbatellaUni/LLM-Multi-Agent-Optimization-Framework)
 
-* **Bayesian Optimization Using Simulation-Based Multiple Information Sources**
-  *A. Sabbatella, et al. (2024)*
-  <br>
-  *Machine Learning and Knowledge Extraction 6 (4)*
-  <br>
-  Advanced combinatorial optimization using multi-source information fusion.
-  <br>
-  [![Citations](https://img.shields.io/badge/Citations-8-green?style=flat-square)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2OhpFQsAAAAJ&citation_for_view=2OhpFQsAAAAJ:9ZlFYXVOiuMC)
-
 * **Bayesian Optimization for Instruction Generation**
   *A. Sabbatella, et al. (2024)*
   <br>
@@ -102,9 +93,18 @@ I focus on **reducing computational overhead** while maintaining SOTA performanc
   <br>
   [![DOI](https://img.shields.io/badge/DOI-10.3390%2Fapp142411865-blue?style=flat-square)](https://doi.org/10.3390/app142411865)
 
+* **Bayesian Optimization Using Simulation-Based Multiple Information Sources**
+  *A. Sabbatella, et al. (2024)*
+  <br>
+  *Machine Learning and Knowledge Extraction 6 (4)*
+  <br>
+  Advanced combinatorial optimization using multi-source information fusion.
+  <br>
+  [![Citations](https://img.shields.io/badge/Citations-8-green?style=flat-square)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2OhpFQsAAAAJ&citation_for_view=2OhpFQsAAAAJ:9ZlFYXVOiuMC)
+
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioSabbatellaUni&show_icons=true&theme=minimal&hide=stars,contribs" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSabbatellaUni&layout=compact&theme=minimal" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioSabbatellaUni&show_icons=true&theme=minimal" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSabbatellaUni&layout=compact&theme=minimal" alt="Top Languages" />
 </div>
